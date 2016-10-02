@@ -11,3 +11,6 @@ Gaussian Process (Kernel Regression) that optimized by cuda
 $ make && sudo make install
 ```
 
+## usage
+Read example.py
+
